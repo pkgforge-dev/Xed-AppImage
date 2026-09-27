@@ -1,21 +1,34 @@
 <div align="center">
 
-# TEMPLATE-AppImage 🐧
+# Xed-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/TEMPLATE-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/TEMPLATE-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/TEMPLATE-AppImage)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Xed-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Xed-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Xed-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Xed-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Xed-AppImage)](https://github.com/pkgforge-dev/Xed-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/linuxmint/mint-y-icons/master/src/apps/accessories-text-editor.svg" width="128" alt="Xed Logo" />
 </p>
-
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Anylinux-AppImages) |
+| [Click here](https://github.com/pkgforge-dev/Xed-AppImage/releases/latest) | [Click here](https://github.com/linuxmint/xed) |
 
 </div>
+
+---
+
+### Description
+
+Xed is a small, lightweight, and versatile text editor developed by Linux Mint as part of the X-Apps project. It offers standard text editing capabilities alongside advanced features such as syntax highlighting, a multi-document tabbed interface, and an extensible plugin system.
+
+Features:
+- **Full UTF-8 & Unicode Support**: Complete support for international character sets and standard text encoding.
+- **Syntax Highlighting**: Built-in syntax highlighting for numerous programming, scripting, and markup languages.
+- **Tabbed Interface**: Manage and edit multiple documents simultaneously within a clean, single-window or multi-window layout.
+- **Search & Replace**: Fast search and replace with regular expression matching and match highlighting.
+- **Plugin Extensibility**: Modular architecture with plugins for spell checking, file browser side pane, word completion, document statistics, line sorting, and more.
+- **Remote Editing & Print Support**: Seamless editing of remote files over network shares, with full print and print preview capabilities.
 
 ---
 
@@ -32,7 +45,6 @@ Self-updater is disabled by default if AppImage managers like [am](https://githu
 <details>
   <summary><b><i>raison d'être</i></b></summary>
     <img src="https://github.com/user-attachments/assets/d40067a6-37d2-4784-927c-2c7f7cc6104b" alt="Inspiration Image">
-  </a>
 </details>
 
 ---
