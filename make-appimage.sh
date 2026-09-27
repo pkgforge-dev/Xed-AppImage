@@ -9,6 +9,7 @@ export ADD_HOOKS="self-updater.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
 export DESKTOP=/usr/share/applications/org.x.editor.desktop
 export ICON=/usr/share/help/C/xed/figures/xed_print_button.png
+export APPNAME=Xed
 export DEPLOY_PYTHON=1
 export GTK_FIX_NONSENSE=1
 
