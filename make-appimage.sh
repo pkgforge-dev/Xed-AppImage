@@ -10,6 +10,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export DESKTOP=/usr/share/applications/org.x.editor.desktop
 export ICON=/usr/share/help/C/xed/figures/xed_print_button.png
 export DEPLOY_PYTHON=1
+export GTK_FIX_NONSENSE=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/xed /usr/lib/xed /usr/share/xed /usr/lib/libgtk-3.so*
