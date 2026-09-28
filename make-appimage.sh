@@ -12,6 +12,7 @@ export ICON=/usr/share/help/C/xed/figures/xed_print_button.png
 export APPNAME=Xed
 export DEPLOY_PYTHON=1
 export GTK_FIX_NONSENSE=1
+USE_HOST_DRIVERS_EXPERIMENTAL=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/xed /usr/lib/xed /usr/share/xed /usr/lib/libgtk-3.so*
