@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Xed-AppImage)](https://github.com/pkgforge-dev/Xed-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/linuxmint/mint-y-icons/master/src/apps/accessories-text-editor.svg" width="128" alt="Xed Logo" />
+  <img src="https://github.com/linuxmint/mint-y-icons/blob/master/usr/share/icons/Mint-Y/apps/256/accessories-text-editor.png" width="128" alt="Xed Logo" />
 </p>
 
 | Latest Stable Release | Upstream URL |
